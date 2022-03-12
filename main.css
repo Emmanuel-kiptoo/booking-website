@@ -1,0 +1,15 @@
+/* Name: Main.css
+Version:1.0.0
+Author:Gideon &Emmanuel
+<===============================
+Table of Content
+================================
+*/
+/*Login
+*/
+.container form{
+max-width: 450px;
+}
+form input{
+    height: 65px;
+}
